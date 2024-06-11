@@ -1,1 +1,1 @@
-# Great-Barrier-Reef-Object-Detection-using-YO
+# Great-Barrier-Reef-Object-Detection-using-YOL
