@@ -1,1 +1,1 @@
-# Great-Barrier-Reef-Object-De
+# Great-Barrier-Reef-Object-Det
